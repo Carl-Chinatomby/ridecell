@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:9.5.18
+    container_name: ridecell_db
+    ports:
+      - "5432:5432"
+  web:
+    build: .
+    command: ./entry.sh
+    volumes:
+      - .:/var/app
+    container_name: ridecell_web
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db

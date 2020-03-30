@@ -1,0 +1,82 @@
+[
+    {
+        "model": "api.scooter",
+        "pk": 1,
+        "fields": {
+            "latitude": 37.788548,
+            "longitude": -122.411548
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 2,
+        "fields": {
+            "latitude": 37.783223,
+            "longitude": -122.398630
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 3,
+        "fields": {
+            "latitude": 0.0,
+            "longitude": 0.0
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 4,
+        "fields": {
+            "latitude": 37.783223,
+            "longitude": 122.398630
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 5,
+        "fields": {
+            "latitude": -37.783223,
+            "longitude": -122.398630
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 6,
+        "fields": {
+            "latitude": 0.0,
+            "longitude": -122.398630
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 7,
+        "fields": {
+            "latitude": -37.783223,
+            "longitude": 0.0
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 8,
+        "fields": {
+            "latitude": 0.0,
+            "longitude": 122.398630
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 9,
+        "fields": {
+            "latitude": 37.783223,
+            "longitude": 0.0
+        }
+    },
+    {
+        "model": "api.scooter",
+        "pk": 10,
+        "fields": {
+            "latitude": 125.398630,
+            "longitude": 125.398630
+        }
+    }
+]
